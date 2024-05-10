@@ -11,7 +11,7 @@ export const LeftContainer = () => {
         </h1>
 
         <div className="hero-image-box d-md-none text-center wow fadeInRight" data-wow-delay="1.3s">
-            <img src="/img/hero/profile.jpeg" alt=""/>
+            <img src="/img/hero/akprofile.jpeg" alt=""/>
         </div>
 
         <p className="lead wow fadeInLeft" data-wow-delay="1.4s">Skilled developer experienced in MERN stack and Next.js, creating efficient web apps for great user experiences.</p>
